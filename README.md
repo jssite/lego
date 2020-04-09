@@ -3,7 +3,7 @@
 
 ```bash
 # enter the project directory
-cd vue-element-admin
+cd lego
 
 # install dependency
 npm install
